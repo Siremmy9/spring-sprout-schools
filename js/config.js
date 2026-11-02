@@ -5,8 +5,7 @@ const schoolConfig = {
   tagline: " Spring Sprout",
   heroTitle: "Raising Influential Children",
   heroSubtitle: "....For Global Exploit",
-  heroText:
-    "Building Character of determination, dedication and Diligience",
+  heroText: "Building Character of determination, dedication and Diligience",
 
   location: "Majek, 1,Adeyinka Oni Close,Fidiso Estate, Eti-Osa, Lagos",
   addressLines: [
@@ -33,19 +32,17 @@ const schoolConfig = {
     about: "assets/images/springaround.jpg",
     creche: "assets/images/reading.jpg",
     nursery: "assets/images/gallery/library.jpg",
-    primary: "assets/images/gallery/primary.jpg",
+    primary: "assets/images/logo.jpg",
     secondary: "assets/images/springaround.jpg",
   },
 
   mapUrl:
-  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3716.5972767430553!2d3.6582395749925323!3d6.474676593517129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf9d089dc284f%3A0x33fa8f0450c36995!2sSpring%20sprout%20School!5e1!3m2!1sen!2sng!4v1792159343497!5m2!1sen!2sng" 
-,
-
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3716.5972767430553!2d3.6582395749925323!3d6.474676593517129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf9d089dc284f%3A0x33fa8f0450c36995!2sSpring%20sprout%20School!5e1!3m2!1sen!2sng!4v1792159343497!5m2!1sen!2sng",
   social: { facebook: "", instagram: "", youtube: "", tiktok: "" },
 
-  colors: { primary: "#1E1A5E", secondary: "#ED1C24" },
+  colors: { primary: "#1E1A5E", secondary: "#1ced92d6" },
 
-  designer: "Emmanuel | Sowftech",
+  designer: " | Sowftech",
 
   stats: { years: 10, students: 500, staff: 40, programs: 12 },
 
@@ -109,7 +106,7 @@ const schoolConfig = {
   ],
 
   about: {
-    intro: 
+    intro:
       " We partner with parents to raise children who are confident, knowledgeable and responsible, and who are ready to lead.",
     mission:
       "Every Child is Unique, with special Talents. Training turns talent to treasure. Any Child can be inspired to excellent greatness",
@@ -197,5 +194,5 @@ const schoolConfig = {
     "Parents",
   ],
 
-  siteUrl: "", 
+  siteUrl: "",
 };

@@ -1,14 +1,14 @@
 const schoolContent = {
   staff: [
     {
-      name: "Mr Eagles ",
+      name: "Mr Spring Sprout ",
       position: "Principal",
       department: "Administration",
       photo: "assets/images/gallery/staff.jpg",
       bio: "Propiertor. Motivated Educator, Leading with zeal and dedication",
     },
     {
-      name: "Mrs Eagles",
+      name: "Mrs Spring Sprout",
       position: "Vice Principal",
       department: "Administration",
       photo: "assets/images/logo.jpg",
@@ -49,8 +49,8 @@ const schoolContent = {
   // Cultural Activities, Facilities  (list is galleryCategories in config.js)
   gallery: [
     {
-      image: "assets/images/gallery/eagleabout.jpg",
-      caption: "Eaglesworld",
+      image: "assets/images/logo.jpg",
+      caption: "Spring Sproutworld",
       category: "Classrooms",
     },
     {
@@ -118,7 +118,7 @@ const schoolContent = {
       title: "School Resumption",
       category: "Announcement",
       date: "2026-09-14",
-      image: "assets/images/news/eagleflyer.jpg",
+      image: "assets/images/logo.jpg",
       published: true,
       excerpt:
         "Resumption dates, school hours and first-week arrangements are shared here once confirmed.",
@@ -149,7 +149,7 @@ const schoolContent = {
       title: "Parents Meeting",
       category: "Parents",
       date: "2026-08-23",
-      image: "assets/images/news/teagleeacher.jpg",
+      image: "assets/images/logo.jpg",
       published: true,
       excerpt: "Date, time and agenda for the next parents' meeting.",
       content: "TBA.",
@@ -187,7 +187,7 @@ const schoolContent = {
       title: "Admission Announcement",
       category: "Admissions",
       date: "2026-07-21",
-      image: "assets/images/news/eagleadmission.jpg",
+      image: "assets/images/logo.jpg",
       published: true,
       excerpt:
         "Admission is open. Read how to begin the process for your child.",
@@ -382,7 +382,7 @@ const schoolContent = {
     payment: {
       note: "Fees and payment information can be updated by the school administrator.",
       bankName: "Bank Name",
-      accountName: "Eagles world Schools",
+      accountName: "Spring Sprout world Schools",
       accountNumber: "XXXXXXXXXX",
       instructions:
         "Please use your child's full name and class as the payment reference, and send proof of payment to the school office or via WhatsApp.",
